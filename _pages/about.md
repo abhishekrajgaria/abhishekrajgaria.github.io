@@ -6,7 +6,7 @@ subtitle: MS CS '25 @ <a href="https://www.cs.utah.edu/">University of Utah</a>
 
 profile:
   align: right
-  image: formal_profile_final.jpeg
+  image: myself.jpeg
   image_cicular: true # crops the image to make it circular
 
 news: true # includes a list of news items
@@ -14,10 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year research-track Master in Computer Science (MS CS) student at the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). I am interested in the real-world applications of Trustworthy Machine Learning (TML), Natural Language Processing (NLP), and Security & Privacy. My work in these areas has been published/under review in ACL, USENIX Security Symposium, ICWSM.
+Hi there, Currently I am pursuing a MS in Computer Science from the [University of Utah, Salt Lake City](https://www.utah.edu/). My Objective from higher education is to attain in-depth knowledge of Systems, cover wide topics in Artificial Intelligence, again getting accustomed to mathematical reasoning, logics and strengthen my coding/programming skills.
 
-I am presently working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/) on Adversarial Machine Learning with a focus on Foundation Models. Previously, I have worked on watermarking fine-tuned LLM-generated text (ACL Findings'21) with [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) (UC Davis) and [Prof. Tanmoy Chakraborty](https://tanmoychak.com/) (IIT Delhi). I am a Graduate Teaching Assistant for CS124: Introduction to Computer Science course this semester (Fall 2023).
+Before this, I spent 2.3 years working as a Software Development Engineer at [Publicis Sapient, India](https://www.publicissapient.com/), during this time I worked on 3 different platforms ranging from E-commerce, Neo Banking, Teaching Platforms, in an Agile environment following the latest industry practices such as Micro-service, Micro-frontend Framework, DevOps cycle for code publishing.
 
-Before my MS, I graduated with a B. Tech. degree in Computer Science from <a href="https://www.iitg.ac.in/">IIIT Delhi</a> in June 2021, where I worked in Natural Language Processing (NLP), Graphs and Security & Privacy (S&P). I was an member of [LCS2](https://lcs2.in/) and the [Complex Systems Lab](https://cosylab.iiitd.edu.in/). I worked on identifying anomalies in the YouTube Blackmarket Network using Graphs (ICSWM'22). I also led the information retrieval team for [RecipeDB](https://cosylab.iiitd.edu.in/recipedb/) - a worldwide repository of recipes (ICDE Workshop, Oxford University Press).
+I completed my undergraduate studies with honors, from [IIIT Delhi](https://www.iiitd.ac.in/), majoring in [Computer Science with Applied Mathematics](https://www.iiitd.ac.in/academics/btech).There, I got the chance to work with [Dr Vikram Goyal](http://faculty.iiitd.ac.in/~vikram/) for my Bachelor Thesis on "Graph Neural Network for Subgraph Isomorphism Detection", [Dr Debajyoti Bera](http://faculty.iiitd.ac.in/~dbera/) and [Sagnik Chatterjee](http://chatsagnik.com/) on "Quantum Approximate Optimization Algorithm (QAOA) on Graph Matching and Max Cut Problems". Interned with [Dr Sanjit Kaul](https://sites.google.com/view/sanjitkkaul/) on "Autonomous Vehicle Project - [Swarath](https://sites.google.com/view/sanjitkkaul/sponsored-projects?authuser=0#h.p_JujlhcndA8LM)".
 
-I was an Applied Science intern at [Ema Inc.](https://ema.co/) this summer (2023). I worked with the Generative AI Team on converting Natural language to SQL Commands. I have also worked as a Natural Language Processing (NLP) Engineer at [Prodigal Technologies](https://www.prodigaltech.com/) for a year, where I worked on problems of Information Retrieval (IR), Event Tagging, and Optimizing Search Queries. Additionally, I have interned at [TCS Research](https://www.tcs.com/what-we-do/research) and [Centre de Sciences Humanities (CSH Delhi)](https://www.csh-delhi.com/).
+Areas of Experience - Software Engineering, Full-Stack Developer, Back-end Developer, Front-end Developer, Devops, Student Mentor, AI-Topics Deep Learning, Natural Language Processing and Graph Neural Networks, Quantum Computing.
+
+If you've got any interesting jobs or projects, take a peek at my Resume. If you think I could help with what you're up to, or if you just want to chat and ask questions, feel free to reach out!
