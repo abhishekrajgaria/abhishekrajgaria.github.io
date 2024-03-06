@@ -1,9 +1,9 @@
 ---
-layout: publications
-permalink: /publications/
+layout: projects
+permalink: /projects/
 nav: true
-title: publications
+title: projects
 
-pg_title: Publications
+pg_title: Projects
 description:
 ---
