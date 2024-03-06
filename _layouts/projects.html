@@ -19,6 +19,9 @@ layout: default
             {% if project.link %}
             <a href="{{ project.link }}" target="_blank" rel="noopener noreferrer">Project Link</a>
             {% endif %}
+            {% if project.tech_stack %}
+            <b>Tech Stack:</b> <p>{{project.tech_stack}}</p>
+            {% endif %}
             {% if project.code %} |
             <a href="{{ project.code }}" target="_blank" rel="noopener noreferrer">Code</a>
             {% endif %}
