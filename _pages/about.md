@@ -2,20 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS CS '24 @ <a href="https://cs.illinois.edu/">UIUC</a>
+subtitle: MS CS '25 @ <a href="https://www.cs.utah.edu/">University of Utah</a>
 
 profile:
   align: right
   image: formal_profile_final.jpeg
   image_cicular: true # crops the image to make it circular
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+
 I am a 2nd year research-track Master in Computer Science (MS CS) student at the [University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). I am interested in the real-world applications of Trustworthy Machine Learning (TML), Natural Language Processing (NLP), and Security & Privacy. My work in these areas has been published/under review in ACL, USENIX Security Symposium, ICWSM.
 
-I am presently working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/) on Adversarial Machine Learning with a focus on Foundation Models. Previously, I have worked on watermarking fine-tuned LLM-generated text  (ACL Findings'21) with [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) (UC Davis) and [Prof. Tanmoy Chakraborty](https://tanmoychak.com/) (IIT Delhi). I am a Graduate Teaching Assistant for CS124: Introduction to Computer Science course this semester (Fall 2023).
+I am presently working with [Prof. Gang Wang](https://gangw.cs.illinois.edu/) on Adversarial Machine Learning with a focus on Foundation Models. Previously, I have worked on watermarking fine-tuned LLM-generated text (ACL Findings'21) with [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) (UC Davis) and [Prof. Tanmoy Chakraborty](https://tanmoychak.com/) (IIT Delhi). I am a Graduate Teaching Assistant for CS124: Introduction to Computer Science course this semester (Fall 2023).
 
 Before my MS, I graduated with a B. Tech. degree in Computer Science from <a href="https://www.iitg.ac.in/">IIIT Delhi</a> in June 2021, where I worked in Natural Language Processing (NLP), Graphs and Security & Privacy (S&P). I was an member of [LCS2](https://lcs2.in/) and the [Complex Systems Lab](https://cosylab.iiitd.edu.in/). I worked on identifying anomalies in the YouTube Blackmarket Network using Graphs (ICSWM'22). I also led the information retrieval team for [RecipeDB](https://cosylab.iiitd.edu.in/recipedb/) - a worldwide repository of recipes (ICDE Workshop, Oxford University Press).
 
