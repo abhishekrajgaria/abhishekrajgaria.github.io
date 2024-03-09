@@ -25,11 +25,13 @@ layout: default
             {% if project.code %} |
             <a href="{{ project.code }}" target="_blank" rel="noopener noreferrer">Code</a>
             {% endif %}
+            {% if project.abstract %} |
+            <a href="{{ project.abstract }}" target="_blank" rel="noopener noreferrer">Abstract </a>
+            {% endif %}
             {% if project.pdf %} |
             <a href="{{ project.pdf }}" target="_blank" rel="noopener noreferrer">PDF </a>
             {% endif %}
         </li>
       {%- endfor %}
       </ul>
-
 </div>
