@@ -6,7 +6,7 @@ subtitle: MS CS '25 @ <a href="https://www.cs.utah.edu/">University of Utah</a>
 
 profile:
   align: right
-  image: myself.jpg
+  image: abhishek_photo.jpg
   image_cicular: true # crops the image to make it circular
 
 news: true # includes a list of news items
