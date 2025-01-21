@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horizontal Journey Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .timeline-container {
+            display: flex;
+            align-items: center;
+            overflow-x: auto;
+            padding: 20px;
+            gap: 30px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #f9f9f9;
+        }
+        .timeline-container::-webkit-scrollbar {
+            height: 8px;
+        }
+        .timeline-container::-webkit-scrollbar-thumb {
+            background: #bbb;
+            border-radius: 10px;
+        }
+        .timeline-container::-webkit-scrollbar-track {
+            background: #eee;
+        }
+        .timeline-item {
+            text-align: center;
+            position: relative;
+            min-width: 200px;
+        }
+        .timeline-item .circle {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin: 0 auto;
+            position: relative;
+            background: #007bff; /* Default blue color */
+        }
+        .timeline-item:nth-child(odd) .circle {
+            background: #28a745; /* Alternate green color */
+        }
+        .timeline-item h3 {
+            font-size: 1em;
+            margin: 10px 0 5px;
+        }
+        .timeline-item p {
+            font-size: 0.9em;
+            color: #555;
+        }
+        .arrow {
+            width: 50px;
+            height: 2px;
+            background: #ddd;
+            position: relative;
+        }
+        .arrow::after {
+            content: '';
+            position: absolute;
+            top: -5px;
+            right: -10px;
+            border-style: solid;
+            border-width: 5px 0 5px 10px;
+            border-color: transparent transparent transparent #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align: center;">My Journey - Horizontal Tracker</h2>
+    <div class="timeline-container">
+        <div class="timeline-item">
+            <div class="circle"></div>
+            <h3>Hometown</h3>
+            <p>Where it all began!</p>
+        </div>
+        <div class="arrow"></div>
+        <div class="timeline-item">
+            <div class="circle"></div>
+            <h3>Kota</h3>
+            <p>Studied and prepared for exams.</p>
+        </div>
+        <div class="arrow"></div>
+        <div class="timeline-item">
+            <div class="circle"></div>
+            <h3>Delhi</h3>
+            <p>B.Tech studies in Computer Science.</p>
+        </div>
+        <div class="arrow"></div>
+        <div class="timeline-item">
+            <div class="circle"></div>
+            <h3>Remote Work</h3>
+            <p>Worked remotely during the pandemic.</p>
+        </div>
+        <div class="arrow"></div>
+        <div class="timeline-item">
+            <div class="circle"></div>
+            <h3>Salt Lake City</h3>
+            <p>Pursuing my Master\u2019s degree.</p>
+        </div>
+    </div>
+</body>
+</html>
