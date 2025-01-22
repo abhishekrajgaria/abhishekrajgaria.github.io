@@ -41,13 +41,14 @@ layout: default
           {%- endunless %}
 
           
-          {%- include affiliations.html %}
           
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
-
+          
+          {%- include affiliations.html %}
+          
           {%- include journey.html %}
           
           {% if page.selected_papers -%}
