@@ -1,5 +1,6 @@
 ---
 layout: projects
+year: 2021
 title: Text to Image Generation
 description: Used two existing Generative Adversarial network (GAN) namely DCGAN and DFGAN, for generating realistic images from textual discription. We have used CUBDataset.
 tech_stack: Python, Pytorch, Numpy

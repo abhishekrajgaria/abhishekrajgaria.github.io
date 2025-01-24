@@ -1,5 +1,6 @@
 ---
 layout: projects
+year: 2024
 title: Partitioned Learned Bloom Filter
 description: Implemented Learned Bloom Filter with GRU model, which partitions input to multiple Bloom Filters and results in 20x reduction in False Positive rate for same amount of memory as vanilla Bloom filter. Keeping False Negative rate to 0
 tech_stack: Pytorch, Python, Machine Learning
